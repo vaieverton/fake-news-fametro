@@ -1,0 +1,1 @@
+private varivel = 12
